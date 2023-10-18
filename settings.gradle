@@ -1,0 +1,5 @@
+rootProject.name = 'practice'
+include 'leetcode'
+include 'otus-trainee'
+include 'codewars'
+
